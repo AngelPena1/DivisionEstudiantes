@@ -1,0 +1,7 @@
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\DivisionPorGrupos\bin\Debug\DivisionPorGrupos.exe.config
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\DivisionPorGrupos\bin\Debug\DivisionPorGrupos.exe
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\DivisionPorGrupos\bin\Debug\DivisionPorGrupos.pdb
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\DivisionPorGrupos\obj\Debug\DivisionPorGrupos.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\DivisionPorGrupos\obj\Debug\DivisionPorGrupos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\DivisionPorGrupos\obj\Debug\DivisionPorGrupos.exe
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\DivisionPorGrupos\obj\Debug\DivisionPorGrupos.pdb

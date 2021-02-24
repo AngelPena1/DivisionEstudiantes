@@ -1,0 +1,17 @@
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\UnitTestReparticion.dll
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\UnitTestReparticion.pdb
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\DivisionPorGrupos.exe
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\DivisionPorGrupos.pdb
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\DivisionPorGrupos.exe.config
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\obj\Debug\UnitTestReparticion.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\obj\Debug\UnitTestReparticion.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\obj\Debug\UnitTestReparticion.csproj.CopyComplete
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\obj\Debug\UnitTestReparticion.dll
+C:\Users\Angel\Desktop\ProyectoGit\DivisionEstudiantes\DivisionPorGrupos\UnitTestReparticion\obj\Debug\UnitTestReparticion.pdb
